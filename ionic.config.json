@@ -1,0 +1,8 @@
+{
+  "name": "monapp",
+  "app_id": "190d279a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
